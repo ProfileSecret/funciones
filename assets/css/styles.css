@@ -2,5 +2,32 @@ body {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    column-gap: 10px;
+    gap: 10px;
+}
+
+#azul {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+#rojo {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+#amarillo {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+}
+#verde {
+    background-color: green;
+    height: 200px;
+    width: 200px;
+}
+#key {
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
 }
